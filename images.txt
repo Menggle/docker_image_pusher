@@ -1,7 +1,15 @@
-alpine
-nginx
+青龙
+v2rayA
+Aria2
+Calibre-web
+Jellyfin
+万吉
+夸克网盘自动转存
+简单图床
+Syncthing
+
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+
 xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm7 xiaoyaliu/alist
