@@ -1,13 +1,11 @@
---platform=linux/arm7 qinglong:2.10.13
---platform=linux/arm7 v2rayA
---platform=linux/arm7 Aria2
---platform=linux/arm7 Calibre-web
+qinglongv2rayA
+Aria2
+Calibre-web
 万吉
---platform=linux/arm7 夸克网盘自动转存
-简单图床
---platform=linux/arm7 Syncthing
+夸克网盘自动转存
+Syncthing
 #支持私库
-xhofe/alist:latest
+--platform=linux/arm7 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm7 xiaoyaliu/alist
 Taskover 
