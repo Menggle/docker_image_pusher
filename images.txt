@@ -1,4 +1,3 @@
-qinglong
 v2rayA
 Aria2
 Calibre-web
