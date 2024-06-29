@@ -1,6 +1,4 @@
 
-aria2
-calibre-web
 syncthing
 jellyfin
 #支持私库
