@@ -1,34 +1,8 @@
 qinglongv2rayA
 Aria2
 Calibre-web
-万吉
-夸克网盘自动转存
 Syncthing
 #支持私库
 --platform=linux/arm7 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm7 xiaoyaliu/alist
-Taskover 
-#个人任务系统
-melody
-#个人在线音乐平台
---platform=linux/arm7 yesplaymusic
-#个人音乐播放器
-mm-wiki
-#文档系统
-one-nav
-#个人书签工具
-Halo
-# 博客系统
-Trilium
-#个人笔记工具
-CodiMD
-#个人文本编辑器
-PhotoPrism
-#照片管理系统
---platform=linux/arm7 Mindoc
-#文档管理系统
-Jellyfin
-#家庭影院
-VScode
-# 网页版编译器
