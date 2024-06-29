@@ -1,7 +1,9 @@
-qinglongv2rayA
+qinglong
+v2rayA
 Aria2
 Calibre-web
 Syncthing
+Jellyfin
 #支持私库
 --platform=linux/arm7 xhofe/alist:latest
 #支持指定架构
