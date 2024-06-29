@@ -1,8 +1,8 @@
-v2rayA
-Aria2
-Calibre-web
-Syncthing
-Jellyfin
+v2raya
+aria2
+calibre-web
+syncthing
+jellyfin
 #支持私库
 --platform=linux/arm7 xhofe/alist:latest
 #支持指定架构
